@@ -6,3 +6,5 @@
 - 📫 How to reach me: Linkedin [@akinbeduk](https://www.linkedin.com/in/akinbeduk/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing with my 1 year old daughter.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
