@@ -1,11 +1,11 @@
 ### Hello I'm Akın Bedük! 👋
 
-- 🔭 I’m currently working on Clarusway IT School as an intern.
-- 🌱 I’m currently learning Natural Language Processing.
+- 🔭 I’m currently working on Siemens.
+- 🌱 I’m currently learning Time Series project.
 - 👯 I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me: Linkedin [@akinbeduk](https://www.linkedin.com/in/akinbeduk/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love playing with my 1 year old daughter.
+- ⚡ Fun fact: I love playing with my 2 years old daughter.
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinbeduk/)
